@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(plutil:*)",
+      "WebFetch(domain:api-docs.memfault.com)",
+      "Bash(xcodebuild:*)",
+      "Bash(mkdir:*)",
+      "Bash(git checkout:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(cp:*)"
+    ],
+    "deny": []
+  }
+}
